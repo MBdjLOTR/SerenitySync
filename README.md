@@ -27,22 +27,18 @@ Android/iOS device or emulator
 Installation
 Clone the repository
 
-bash
-Copy
-Edit
+bash/
 git clone https://github.com/yourusername/wellness_app.git
 cd wellness_app
+
 Get dependencies
 
-bash
-Copy
-Edit
+bash/
 flutter pub get
+
 Run the app
 
-bash
-Copy
-Edit
+bash/
 flutter run
 🧩 Dependencies
 Package	Purpose
