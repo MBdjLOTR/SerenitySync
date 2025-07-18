@@ -1,7 +1,7 @@
 🧘‍♀️ Serenity Sync
 A modern Flutter-based Wellness App focused on promoting mental and physical well-being. Track your habits, stay hydrated, practice mindfulness, and build a healthier lifestyle — all in one place.
 
-![Mind & Soul Relaxation UI](./assets/mind_soul_relaxation.png)
+![Background Image](./background.png)
 
 📱 Features
 
